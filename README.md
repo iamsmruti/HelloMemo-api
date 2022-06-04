@@ -1,5 +1,5 @@
 
-# HelloMemo API
+# Nameless Chat API
 
 This is the API for a Memo APP ( Nameless Chat ). 
 
